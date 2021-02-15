@@ -20,5 +20,24 @@ HackorZee is a platform to conduct Hackathons online or virtually. It has featur
 5)Students are Provided with upload feature to upload their projects in .Pdf, .jpg, .zip(.rar) supported formats
 
 
+# Screen Shots !
+<img src="images/ss1.png">
+<br>
+
+# Create your Hackathon !
+<img src="images/ss2.png">
+<br>
+
+# Student Screen !
+<img src="images/ss3.png">
+<br>
+
+# Organizer Screen !
+<img src="images/ss4.png">
+<br>
+
+# Enrolled Students List !
+<img src="images/ss5.png">
+
 # Demo Video 
 <a href="https://www.youtube.com/watch?v=2J500-UBIxU" target="blank">HackorZee</a>

@@ -1,0 +1,25 @@
+form{
+	width:  30%;
+	margin:  100px auto;
+	padding: 30px;
+	border: 1px solid #555;
+}
+
+input{
+	width: 100%;
+	border: 1px solid #ffffff;
+	display: block;
+
+}
+button{
+	border: none;
+	padding: 10px;
+	border-radius:  10px;
+	background-color: #008CBA;
+}
+
+th,td{
+	height:  50px;
+	vertical-align: center;
+	border:  1px solid black;
+}
